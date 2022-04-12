@@ -1,0 +1,5 @@
+E:\CliffApp\OutlierApp\SupplementaryAPI\bin\Release\SupplementaryAPI.dll
+E:\CliffApp\OutlierApp\SupplementaryAPI\bin\Release\SupplementaryAPI.pdb
+E:\CliffApp\OutlierApp\SupplementaryAPI\obj\Release\SupplementaryAPI.csproj.CoreCompileInputs.cache
+E:\CliffApp\OutlierApp\SupplementaryAPI\obj\Release\SupplementaryAPI.dll
+E:\CliffApp\OutlierApp\SupplementaryAPI\obj\Release\SupplementaryAPI.pdb

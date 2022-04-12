@@ -1,0 +1,10 @@
+E:\CliffApp\OutlierApp\OutlierApp\bin\Debug\OutlierApp.exe.config
+E:\CliffApp\OutlierApp\OutlierApp\bin\Debug\OutlierApp.exe
+E:\CliffApp\OutlierApp\OutlierApp\bin\Debug\OutlierApp.pdb
+E:\CliffApp\OutlierApp\OutlierApp\obj\Debug\OutlierApp.csproj.AssemblyReference.cache
+E:\CliffApp\OutlierApp\OutlierApp\obj\Debug\OutlierApp.csproj.CoreCompileInputs.cache
+E:\CliffApp\OutlierApp\OutlierApp\obj\Debug\OutlierApp.exe
+E:\CliffApp\OutlierApp\OutlierApp\obj\Debug\OutlierApp.pdb
+E:\CliffApp\OutlierApp\OutlierApp\bin\Debug\SupplementaryAPI.dll
+E:\CliffApp\OutlierApp\OutlierApp\bin\Debug\SupplementaryAPI.pdb
+E:\CliffApp\OutlierApp\OutlierApp\obj\Debug\OutlierApp.csproj.CopyComplete
